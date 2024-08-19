@@ -1,0 +1,20 @@
+﻿  drawer.cpp
+  figure.cpp
+  main.cpp
+  matrix.cpp
+  matrixlist.cpp
+  poly.cpp
+  vector3d.cpp
+  Создание кода...
+drawer.obj : error LNK2019: ссылка на неразрешенный внешний символ cleardevice в функции "public: __cdecl Drawer::Drawer(int,int)" (??0Drawer@@QEAA@HH@Z).
+drawer.obj : error LNK2019: ссылка на неразрешенный внешний символ putpixel в функции "public: void __cdecl Drawer::draw_dot(double,double,int,class Poly const &)" (?draw_dot@Drawer@@QEAAXNNHAEBVPoly@@@Z).
+drawer.obj : error LNK2019: ссылка на неразрешенный внешний символ getpixel в функции "public: int __cdecl Drawer::get_dot(double,double)" (?get_dot@Drawer@@QEAAHNN@Z).
+drawer.obj : error LNK2019: ссылка на неразрешенный внешний символ setbkcolor в функции "public: __cdecl Drawer::Drawer(int,int)" (??0Drawer@@QEAA@HH@Z).
+drawer.obj : error LNK2019: ссылка на неразрешенный внешний символ initwindow в функции "public: __cdecl Drawer::Drawer(int,int)" (??0Drawer@@QEAA@HH@Z).
+drawer.obj : error LNK2019: ссылка на неразрешенный внешний символ swapbuffers в функции "public: __cdecl Drawer::Drawer(void)" (??0Drawer@@QEAA@XZ).
+main.obj : error LNK2001: неразрешенный внешний символ swapbuffers.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ setcolor в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ outstreamxy в функции main.
+main.obj : error LNK2001: неразрешенный внешний символ bgiout.
+graphics.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\Дмитрий\Desktop\github\Pyramid&Parallelogram\x64\Debug\Pyramid&Parallelogram.exe : fatal error LNK1120: неразрешенных внешних элементов: 9

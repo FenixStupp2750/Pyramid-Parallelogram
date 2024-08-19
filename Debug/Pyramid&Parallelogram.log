@@ -1,0 +1,16 @@
+﻿  drawer.cpp
+  figure.cpp
+  main.cpp
+  matrix.cpp
+  matrixlist.cpp
+  poly.cpp
+  vector3d.cpp
+  Создание кода...
+graphics.lib(dibutil.obj) : warning LNK4099: "" PDB не найден с "graphics.lib(dibutil.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+graphics.lib(drawing.obj) : warning LNK4099: "" PDB не найден с "graphics.lib(drawing.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+graphics.lib(file.obj) : warning LNK4099: "" PDB не найден с "graphics.lib(file.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+graphics.lib(misc.obj) : warning LNK4099: "" PDB не найден с "graphics.lib(misc.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+graphics.lib(text.obj) : warning LNK4099: "" PDB не найден с "graphics.lib(text.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+graphics.lib(winbgi.obj) : warning LNK4099: "" PDB не найден с "graphics.lib(winbgi.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+graphics.lib(winthread.obj) : warning LNK4099: "" PDB не найден с "graphics.lib(winthread.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+  Pyramid&Parallelogram.vcxproj -> C:\Users\Дмитрий\Desktop\github\Pyramid&Parallelogram\Debug\Pyramid&Parallelogram.exe
